@@ -1,0 +1,9 @@
+public/
+resources/
+node_modules/
+.hugo_build.lock
+.DS_Store
+.idea/
+.vscode/
+vendor/
+themes/PaperMod/exampleSite/

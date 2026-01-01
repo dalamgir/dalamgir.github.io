@@ -1,0 +1,53 @@
+baseURL: "https://dalamgir.github.io/"
+title: "Daiyan Alamgir"
+theme: "PaperMod"
+pagination:
+  pagerSize: 10
+languageCode: "en-us"
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  defaultTheme: dark
+  summaryLength: 24
+  assets:
+    css:
+      - "css/override.css"
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowToc: false
+  comments: false
+  homeInfoParams:
+    Title: "Coming soon..."
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/dalamgir"
+    - name: "rss"
+      url: "/index.xml"
+
+menu:
+  main:
+    - name: "Posts"
+      url: "/"
+      weight: 1
+    - name: "RSS"
+      url: "/index.xml"
+      weight: 2
+
+markup:
+  highlight:
+    noClasses: true
+    style: "dracula"
+    lineNos: false
+    lineNumbersInTable: false
+  goldmark:
+    renderer:
+      unsafe: true
