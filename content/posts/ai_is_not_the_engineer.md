@@ -1,4 +1,8 @@
-# AI is not the engineer, You are!
+---
+title: "AI is not the engineer, You are!"
+date: 2026-01-06T12:00:00-05:00
+draft: false
+---
 
 Imagine, what is now, a very real scenario - An engineer gets a task to add a new feature. They paste the requirements into their favorite AI coding assistant, get back a complete implementation, copy it into their codebase and ship it. The feature works. The CR is approved. But three months later, when a related bug appears, no one on the team - including the original author - can explain why the code works the way it does.
 
@@ -20,7 +24,7 @@ AI doesn’t fail loudly when it’s misused - it fails quietly, over time. The 
 
 **Copy-pasting output you couldn’t reconstruct**. This one is the most obvious one. Everyone knows this at the back of their mind but its worth an exclusive mention because of how deceptively costly it can be. Code you can’t mentally re-derive is code you don’t truly own. When requirements change or edge cases appear, the lack of ownership becomes a liability. The fastest way to slow a team down is to fill the codebase with artifacts that no one fully understands.
 
-AI is sufficiently powerful and an inevitable part of our daily lives as software engineers. However, we need to stop treating it like a magical shortcut that somehow exempts us from thinking. Used poorly, AI makes engineering feel easier while quietly making it worse. However, when used well, it can do the opposite. So rather than arguing whether engineers should use AI, the more interesting question is _***how***_\*\* \*\* \*\*to use it without turning ourselves into freeloaders.
+AI is sufficiently powerful and an inevitable part of our daily lives as software engineers. However, we need to stop treating it like a magical shortcut that somehow exempts us from thinking. Used poorly, AI makes engineering feel easier while quietly making it worse. However, when used well, it can do the opposite. So rather than arguing whether engineers should use AI, the more interesting question is _how_ to use it without turning ourselves into freeloaders.
 
 **Using AI to expand ambiguity**. Strong engineers resist the urge to converge too quickly. Used well, AI helps explore the problem space by generating multiple interpretations of the problem, edge cases, and alternatives. It can only do so if we as engineers use our capacity to reason and engage in a conversation. This can expose design options and tradeoff potentials in an effort to keep solutions flexible longer and prevent early commitments to wrong abstractions. AI should widen the search before it narrows the path.
 
