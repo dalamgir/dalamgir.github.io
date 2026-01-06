@@ -1,13 +1,3 @@
-```yaml
----
-title: "AI is not the engineer. You are!"
-date: 2025-01-05T00:10:00Z
-tags: ["ai", "software", "engineering"]
-description: "Use AI to write the code while making sure YOU own the solution."
-draft: false
----
-```
-
 # AI is not the engineer, You are!
 
 Imagine, what is now, a very real scenario - An engineer gets a task to add a new feature. They paste the requirements into their favorite AI coding assistant, get back a complete implementation, copy it into their codebase and ship it. The feature works. The CR is approved. But three months later, when a related bug appears, no one on the team - including the original author - can explain why the code works the way it does.
