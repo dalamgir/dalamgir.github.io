@@ -1,6 +1,6 @@
 ---
 title: "AI is not the engineer, You are!"
-date: 2026-01-06T12:00:00-05:00
+date: 2025-01-06T12:00:00-05:00
 draft: false
 ---
 
